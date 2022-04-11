@@ -1,0 +1,8 @@
+C:\Users\jongtek\Documents\Projet\ExecutionShellcode\ExecutionShellcode\bin\x64\Debug\ExecutionShellcode.exe.config
+C:\Users\jongtek\Documents\Projet\ExecutionShellcode\ExecutionShellcode\bin\x64\Debug\ExecutionShellcode.exe
+C:\Users\jongtek\Documents\Projet\ExecutionShellcode\ExecutionShellcode\bin\x64\Debug\ExecutionShellcode.pdb
+C:\Users\jongtek\Documents\Projet\ExecutionShellcode\ExecutionShellcode\obj\x64\Debug\ExecutionShellcode.csproj.AssemblyReference.cache
+C:\Users\jongtek\Documents\Projet\ExecutionShellcode\ExecutionShellcode\obj\x64\Debug\ExecutionShellcode.csproj.SuggestedBindingRedirects.cache
+C:\Users\jongtek\Documents\Projet\ExecutionShellcode\ExecutionShellcode\obj\x64\Debug\ExecutionShellcode.csproj.CoreCompileInputs.cache
+C:\Users\jongtek\Documents\Projet\ExecutionShellcode\ExecutionShellcode\obj\x64\Debug\ExecutionShellcode.exe
+C:\Users\jongtek\Documents\Projet\ExecutionShellcode\ExecutionShellcode\obj\x64\Debug\ExecutionShellcode.pdb
